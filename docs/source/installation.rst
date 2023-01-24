@@ -4,8 +4,6 @@ Installation
 .. autosummary::
    :toctree: generated
 
-   Installation
-===============
 
 Requirements
 ------------
